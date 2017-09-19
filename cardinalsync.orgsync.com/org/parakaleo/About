@@ -1,0 +1,242 @@
+
+
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Stanford - Organization Template</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- this is the favicon pulled from nsula.edu -->
+<link REL="SHORTCUT ICON" HREF="http://os_extranet_images.s3.amazonaws.com/176381_original.gif">
+
+<!-- this is the orgsync defaults which includes basic styling for many modules and some javascript files. you can delete this but it will require more work to restyle elements and assure full functionality. we suggest keeping this and overwriting any css changes in a separate css file -->
+			<link href="/stylesheets/extranet_defaults.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/module_defaults.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/jquery.fancybox.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/jquery-ui.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.easing.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/jquery.pngFix.js?1485915548" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.fancybox.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/extranet_defaults.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/module_defaults.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/os_jquery.js?1485915548" type="text/javascript"></script>
+
+	    <script type="text/javascript" charset="utf-8">
+	      var $j = jQuery.noConflict()
+	    </script>
+
+<!-- this is your stylesheet , accessed via the files tab -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/19617_38911_stylesheet.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<div id="topbar">
+		<div id="logo">
+                <a href="http://www.stanford.edu"><img style="border:0" src="http://os_extranet_images.s3.amazonaws.com/176374_original.png"></a>
+		</div>
+	</div>
+
+<div id="banner">
+
+<div id="banner_column_left">
+<div id="banner_column_left_text"><p>Parakaleo Christian Ministries</p></div>
+</div>
+<div id="banner_column_right"><img src="http://os_extranet_images.s3.amazonaws.com/176398_original.png"></img></div>
+</div>
+
+
+
+<!-- this is the text that appears in the header, at the top of the page -->
+
+
+
+<!-- to replace the banner in the header portion of the page simply upload a new image in replace of the banner under the images tab. the dimensions are 958x176 pixels -->
+
+	</div>
+	<div id="wrapper">
+
+<!-- this is the navigation for the website. to add a link simply add a list item and a hyperlink to the page's quick url. so to add a page for news you would do <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/404">News</a></li> , be sure to also create this page under the pages tab of the website builder -->
+
+		<div id="navigation">
+			<ul>
+				<li><h3>Teaching Biblical Counseling at Stanford  ->  Scripture in Depth Applied to Life's Practical Issues</h3></li>
+			</ul>
+		</div>
+
+		<div id="content">
+
+<div id="content_wrapper" class="clearfix">
+  <div id="sidebar_navigation">
+    <ul>
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/home">Home</a></li>
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/About">About</a></li>
+                      <!--<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/About_the_Seminar">About the Seminar</a></li>-->
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Course_Syllabus">Course Syllabus</a></li>
+                        <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Current_Offerings">Current Offerings</a></li>
+                        <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Past_Offerings">Past Offerings</a></li>
+                      <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Student_Comments">Student Comments</a></li></ul>
+
+</div>
+  <div id="main_content">
+<div id="os_content"><h3><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Blessed be the ... God of all counsel; who counsels us in all our affliction so that we may be able to comfort those who are in any affliction... &nbsp;</em><em>2 Corinthians 1:3-4</em>&nbsp;</span></span></h3>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Parakaleo Christian Ministries is a Stanford student group dedicated to providing an annual class in Biblical Counseling:</span></span></p>
+
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 1.6;">&hellip;An in-depth study of the Word</span></p>
+
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; line-height: 1.6;">...The chance to explore what the Bible says about the practical issues of everyday life</span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&hellip;A place to be equipped to find practical answers in the Bible both for yourself and to be able to provide wise, loving help to others around you</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&hellip;A time of rest and renewal in your week</span></span></p>
+
+<p>&nbsp;</p>
+
+<h1><span style="font-family:arial,helvetica,sans-serif;">About the Biblical Counseling Course</span></h1>
+
+<hr />
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">The Biblical Counseling Course is a unique extracurricular course that covers practical personal life and counseling issues from an entirely Biblical perspective. The Biblical Counseling Course at Stanford is free and available to all undergraduate and grad students, faculty, university and ministry staff. Participants attend numerous different churches and various on-campus fellowships. The course is currently presented in the form of an in-depth, application oriented Bible study and combines presentation and interactive discussion of the material.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">You do not have to register or pay for the course. Come and join the course anytime.</span></span></p>
+
+<h4><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Part 1: Growth and Change from the Heart</span></span></h4>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">The course begins with amazing insights into who and why we are as human beings from the early chapters of Genesis. What motivates, interests and frustrates us lead into understanding the very practical dynamics of how the new life in Christ enables us as believers to grow and change (not so much the &quot;what&quot; but the &quot;how&quot;, explained in depth in the heart of Romans) as Jesus restores us by the working of His indwelling Spirit. We apply what we learn to comprehending why we sometimes feel defeated or depressed, and how we are prone to habits and additions that undermine our priorities, relationships, and spiritual life. Most importantly, we then learn how to overcome these feelings and habits in practice, so that we can be free to live our lives for God.</span></span></p>
+
+<h4><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Part 2: Fruitful Interpersonal Relationships</span></span></h4>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Relationships are at once one of the most rewarding and frustrating of all our endeavors. As any relationship deepens, whether it be a friend, roommate, or family member, conflict inevitably rises. People annoy and hurt us, and we annoy and hurt others, often without knowing it. Confronting the other person is tricky; although we would like to let the other person know what they are doing, we don&#39;t want to hurt the other person, experience a backlash, or make things worse. In this section, we&#39;ll study how the Bible addresses these practical issues. We&#39;ll learn when confrontation is appropriate, and if so, how to reach out in a constructive and sensitive way that works to truly benefit the other person. When words do not work, we will learn through the poignant example of Jesus how best to communicate. Some of the answers may surprise you, but once you know them, it will be apparent why they work. As a comfort, we&#39;ll also learn some of the practical benefits from going through these relational conflicts.</span></span></p>
+
+<h4><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Part 3: Fulfilling Male-Female Relationships</span></span></h4>
+
+<ul style="margin-left: 40px;"><br />
+	<li><font face="arial, helvetica, sans-serif"><span style="font-size: 14px; line-height: 22.3999996185303px;">For the single person: How not only to deal with the heartache of loneliness, but to thrive in singleness.</span></font></li>
+	<li><font face="arial, helvetica, sans-serif"><span style="font-size: 14px; line-height: 22.3999996185303px;">For those dating or engaged: How best to delight the other person while protecting the delight of physical love for marriage.</span></font></li>
+	<li><font face="arial, helvetica, sans-serif"><span style="font-size: 14px; line-height: 22.3999996185303px;">For those who have blown it sexually: How to rest in God&#39;s forgiveness *and* break the patterns that lead to blowing it.</span></font></li>
+	<li><font face="arial, helvetica, sans-serif"><span style="font-size: 14px; line-height: 22.3999996185303px;">For those married (now or someday): The secrets for understanding, love, and respect.</span></font></li>
+	<li><font face="arial, helvetica, sans-serif"><span style="font-size: 14px; line-height: 22.3999996185303px;">For all: An insightful study of Genesis that reveal what makes each sex &quot;tick&quot;, so that we know how best to relate to each other.</span></font></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h1><span style="font-family:arial,helvetica,sans-serif;">About the Instructors</span></h1>
+
+<hr />
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&quot;Both Steve and Erica have special gifts to help bring these profound insights in the Bible to light. Steve is one of the most careful expositors of the Scriptures that I know, and Erica has her own sweet way of sharing how these Scriptures apply to our down-to-earth lives. The examples given are often taken from their own experiences and struggles, and they are very specific and practical. What I especially enjoyed was how both shared funny situations (at least in hindsight!) that all of us deal with, but somehow are seldom communicated with clarity in a large group setting.&quot;</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">- Jeff Wu, Stanford &#39;11</span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h1><span style="font-family:arial,helvetica,sans-serif;">Why &quot;Parakaleo&quot;?</span></h1>
+
+<hr />
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&quot;Parakaleo&quot; means &quot;to call alongside&quot;. A Greek word in the original Biblical manuscripts, it can be translated as &quot;counsel&quot;, and also as &quot;comfort, console, encourage, urge, appeal, exhort&quot; -- all of which describe aspects of the counseling process.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&quot;Parakaleo&quot; appears in the Bible on a list of distinct &quot;gifts of the Spirit&quot;. Counseling, as all ministry, is done to a certain extent by all believers, but some are specially equipped to use this gift as their primary ministry in the body of Christ. Our ministry focuses on these people, training them to serve in Christian counseling, applying scripture actively and practically to the lives of believers. These principles are equally valuable in ministering to unbelievers in evangelic counseling.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&quot;Parakaleo&quot; is also the term Jesus chose to designate the Holy Spirit in His coming to live in and minister through every Christian -- under the Lordship of Christ, using His words. Hence, the Parakaleo ministry is also concerned with equipping Christians in general to apply God&#39;s Word accurately in their lives and in ministering to others.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h1><span style="font-family:arial,helvetica,sans-serif;">Questions?</span></h1>
+
+<hr />
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Please contact us!</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family: arial, helvetica, sans-serif; "><em><strong>Organization</strong></em><br />
+parakaleo@lists.stanford.edu</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family: arial, helvetica, sans-serif; ">Parakaleo Christian Ministries<br />
+P.O. Box 20462<br />
+Stanford, CA 94309&nbsp;</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em style="font-family: arial, helvetica, sans-serif; "><strong>Student Leaders 2015-2016</strong></em></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Timothy Le (tle7@stanford.edu)</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Isabella Leon (ileoncal@stanford.edu)&nbsp;</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em><strong>Instructors</strong></em></span></span></p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 12px; "><span style="font-size:14px;">Steve and Erica Lawry (lawry@stanford.edu)&nbsp;</span>&nbsp;</span></span></p>
+</div>
+
+<div id="event_popup_box_wrapper" style="display:none;">
+	<div id="event_popup_box" class="profile_box" >
+	</div>
+</div>
+<div id="day_popup_box_wrapper" style="display:none;">
+	<div id="day_popup_box" class="profile_box" >
+	</div>
+</div>
+
+	</div>
+		<div id="sidebar">
+
+<div id="search">
+       <form action="http://www.stanford.edu/search" id="cse-search-box">
+           <div id="search_placement"> 
+
+			<input type="radio" name="sitesearch" id="all" value="stanford.edu">	<label for="all">Stanford Homepage</label></div>
+			<div class="searchbox">
+			<label for="search_string_web">Search:</label>
+
+			<input type="hidden" name="cx" value="003265255082301896483:sq5n7qoyfh8" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+			<!-- <input type="hidden" name="as_sitesearch" value="studentaffairs.stanford.edu/taxonomy" /> -->
+            <input onfocus="this.value=''" type="text" value="Search" name="q" alt="Search field" />
+            <button type="submit" value="Submit" class="search_button" >Submit</button>
+          </div>
+        </form>
+</div>
+
+<!-- start organization contact info -->
+			<h2>CONTACT INFORMATION</h2>
+			<ul>
+          <li><b>email:</b> <a href="mailto:parakaleo@lists.stanford.edu">parakaleo@lists.stanford.edu</a></li>
+          <li><b>student contact:</b> Hamin Kim</li>
+                        </ul>
+		</div>
+		<div style="clear:both;">
+
+<!-- start footer -->
+		<div id="footer">
+			&copy; Stanford University. Stanford, California 94305. (650) 723-2300. <br/>
+			
+		</div>
+<!-- end footer -->
+	</div>
+	
+	
+ 
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-1975314-11");
+		pageTracker._setDomainName(".orgsync.com");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+	 </body>
+</html>
+
+
+
+

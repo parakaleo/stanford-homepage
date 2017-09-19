@@ -1,0 +1,198 @@
+
+
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Stanford - Organization Template</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- this is the favicon pulled from nsula.edu -->
+<link REL="SHORTCUT ICON" HREF="http://os_extranet_images.s3.amazonaws.com/176381_original.gif">
+
+<!-- this is the orgsync defaults which includes basic styling for many modules and some javascript files. you can delete this but it will require more work to restyle elements and assure full functionality. we suggest keeping this and overwriting any css changes in a separate css file -->
+			<link href="/stylesheets/extranet_defaults.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/module_defaults.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/jquery.fancybox.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/jquery-ui.css?1485915548" media="screen" rel="stylesheet" type="text/css" />
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.easing.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/jquery.pngFix.js?1485915548" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.fancybox.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/extranet_defaults.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/module_defaults.js?1485915548" type="text/javascript"></script>
+<script src="/javascripts/os_jquery.js?1485915548" type="text/javascript"></script>
+
+	    <script type="text/javascript" charset="utf-8">
+	      var $j = jQuery.noConflict()
+	    </script>
+
+<!-- this is your stylesheet , accessed via the files tab -->
+<link href="http://os_extranet_files_test.s3.amazonaws.com/19617_38911_stylesheet.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<div id="topbar">
+		<div id="logo">
+                <a href="http://www.stanford.edu"><img style="border:0" src="http://os_extranet_images.s3.amazonaws.com/176374_original.png"></a>
+		</div>
+	</div>
+
+<div id="banner">
+
+<div id="banner_column_left">
+<div id="banner_column_left_text"><p>Parakaleo Christian Ministries</p></div>
+</div>
+<div id="banner_column_right"><img src="http://os_extranet_images.s3.amazonaws.com/176398_original.png"></img></div>
+</div>
+
+
+
+<!-- this is the text that appears in the header, at the top of the page -->
+
+
+
+<!-- to replace the banner in the header portion of the page simply upload a new image in replace of the banner under the images tab. the dimensions are 958x176 pixels -->
+
+	</div>
+	<div id="wrapper">
+
+<!-- this is the navigation for the website. to add a link simply add a list item and a hyperlink to the page's quick url. so to add a page for news you would do <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/404">News</a></li> , be sure to also create this page under the pages tab of the website builder -->
+
+		<div id="navigation">
+			<ul>
+				<li><h3>Teaching Biblical Counseling at Stanford  ->  Scripture in Depth Applied to Life's Practical Issues</h3></li>
+			</ul>
+		</div>
+
+		<div id="content">
+
+<div id="content_wrapper" class="clearfix">
+  <div id="sidebar_navigation">
+    <ul>
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/home">Home</a></li>
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/About">About</a></li>
+                      <!--<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/About_the_Seminar">About the Seminar</a></li>-->
+			<li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Course_Syllabus">Course Syllabus</a></li>
+                        <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Current_Offerings">Current Offerings</a></li>
+                        <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Past_Offerings">Past Offerings</a></li>
+                      <li><a href="http://cardinalsync.orgsync.com/org/parakaleo/Student_Comments">Student Comments</a></li></ul>
+
+</div>
+  <div id="main_content">
+<div id="os_content"><h1 style="text-align: center;"><span style="font-size:26px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="line-height: 1.2em;">Biblical Counseling Course Student Comments</span></span></span></h1>
+
+<hr />
+<p style="text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Part 1 - Growth and Change from the Heart</strong></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.6em;">Hey guys!</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Wanted to let you know about a course that has really been instrumental in my new and renewing Biblical perspective on life!</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">It is a Biblical Counseling Course taught by Steve and Erica Lawry teaching students (and other guests) how the Bible can apply to our daily lives and our mindsets. It&#39;s hard for me to explain the depth and richness with which they explore the Word, but I can tell you that when it goes that deep, it really challenges your preconceptions and worldview in Very powerful life-giving way. It&#39;s deep theology mixed with real practicality. it&#39;s a hard combo to come by these days!</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Andrew Chung</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">This great class has been a tremendous blessing in my life, as well as in the lives of many generations of Stanford students. Hope that you&#39;ll have the chance to check it out!</span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Do you hunger for an in-depth study of God&#39;s Word?<br />
+Would you like to explore how the Bible applies to your everyday life? What has the Bible got to say about handling stress, overcoming habits, and your relationships to roommates, family, friends?<br />
+Would you like to encourage others from God&#39;s Word but sometimes wish that you knew more about how to do this?</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">If so, perhaps the Biblical Counselling Course is for you...</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">- Buchan Quek</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Welcome to an amazing year of learning and growth. I want to tell you about what I&#39;ve found to be one of the greatest opportunities for me to grow as a Christian. The Biblical Counseling Course is a year-long class taken straight from God&#39;s Word. This fall quarter, we will be looking at Growth and Change from the Heart. We will be covering topics such as how God can redemptively use the habits, stress, and depression that we experience in a fallen world. We will study the scriptural basis for every believer&#39;s hope of becoming like Jesus. We will also study how these truths can be applied in our lives and the lives of others. The class, now in its 28th year, is taught by Steve and Erica Lawry, with Steve teaching and Erica presenting examples of practical applications of the passages.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">The Biblical Counseling Course is meant to help in equipping you to counsel others from God&#39;s Word, and is taken in conjunction with your regular church or fellowship. Because we study the Bible, you can benefit from auditing the class simply by sitting in on the lectures, or you can benefit more by studying the scriptures yourself in the week before the class. This is an extracurricular class, and is not taken for University credit.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Although most students take the class once, this is my third year taking the course, simply because I have found this to be the most important learning material and application I have seen in any class at Stanford.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">- Brian Decker</span></span></p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+</div>
+
+<div id="event_popup_box_wrapper" style="display:none;">
+	<div id="event_popup_box" class="profile_box" >
+	</div>
+</div>
+<div id="day_popup_box_wrapper" style="display:none;">
+	<div id="day_popup_box" class="profile_box" >
+	</div>
+</div>
+
+	</div>
+		<div id="sidebar">
+
+<div id="search">
+       <form action="http://www.stanford.edu/search" id="cse-search-box">
+           <div id="search_placement"> 
+
+			<input type="radio" name="sitesearch" id="all" value="stanford.edu">	<label for="all">Stanford Homepage</label></div>
+			<div class="searchbox">
+			<label for="search_string_web">Search:</label>
+
+			<input type="hidden" name="cx" value="003265255082301896483:sq5n7qoyfh8" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+			<!-- <input type="hidden" name="as_sitesearch" value="studentaffairs.stanford.edu/taxonomy" /> -->
+            <input onfocus="this.value=''" type="text" value="Search" name="q" alt="Search field" />
+            <button type="submit" value="Submit" class="search_button" >Submit</button>
+          </div>
+        </form>
+</div>
+
+<!-- start organization contact info -->
+			<h2>CONTACT INFORMATION</h2>
+			<ul>
+          <li><b>email:</b> <a href="mailto:parakaleo@lists.stanford.edu">parakaleo@lists.stanford.edu</a></li>
+          <li><b>student contact:</b> Hamin Kim</li>
+                        </ul>
+		</div>
+		<div style="clear:both;">
+
+<!-- start footer -->
+		<div id="footer">
+			&copy; Stanford University. Stanford, California 94305. (650) 723-2300. <br/>
+			
+		</div>
+<!-- end footer -->
+	</div>
+	
+	
+ 
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-1975314-11");
+		pageTracker._setDomainName(".orgsync.com");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+	 </body>
+</html>
+
+
+
+
