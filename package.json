@@ -27,9 +27,12 @@
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta",
+        "connect": "^3.6.1",
         "font-awesome": "4.7.0",
         "jquery": "^3.2.1",
-        "popper.js": "1.12.3"
+        "livereload": "^0.6.2",
+        "popper.js": "1.12.3",
+        "serve-static": "^1.12.2"
     },
     "devDependencies": {
         "browser-sync": "2.18.13",
