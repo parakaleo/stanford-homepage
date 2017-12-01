@@ -42,8 +42,13 @@
             <li class="nav-item">
               <a class="nav-link" href="about.html">About</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="syllabus.html">Syllabus</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ministries</a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="course.html">Biblical Counseling Course</a>
+                <a class="dropdown-item" href="prayer.html">Morning Prayer</a>
+                <a class="dropdown-item" href="seminars.html">Biblical Seminars</a>
+              </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>
@@ -67,18 +72,33 @@
       </div>
     </header>
 
+    <style>
+    .nav a, .nav li {
+      width: 100%;
+      text-align: left;
+    }
+    .nav .active {
+      /*background-color: #0085a1;
+      color: black;*/
+      color: #0085a1;
+    }
+    </style>
     <!-- Main Content -->
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 mx-auto">
-          <ul class="nav nav-pills">
-            <li class="active btn"><a data-toggle="tab" href="#home">Overview</a></li>
-            <li class="btn"><a data-toggle="tab" href="#menu1">Potential Topics</a></li>
-            <li class="btn"><a data-toggle="tab" href="#menu2">Past Seminars</a></li>
+
+        <div class="col-lg-3 col-md-3 mx-auto">
+          <ul class="nav nav-pills nav-stacked">
+            <a data-toggle="tab" href="#home"><li class="active btn">Overview</li></a>
+            <a data-toggle="tab" href="#menu1"><li class="btn">Potential Topics</li></a>
+            <a data-toggle="tab" href="#menu2"><li class="btn">Past Seminars</li></a>
           </ul>
+        </div>
+
+        <div class="col-lg-9 col-md-9">
 
           <div class="tab-content">
-            <div id="home" class="tab-pane fade in active">
+            <div id="home" class="tab-pane fade in active show">
               <h3>Ov</h3>
               <p>Some content.</p>
             </div>
@@ -91,6 +111,7 @@
               <p>Some content in menu 2.</p>
             </div>
           </div>
+
         </div>
       </div>
     </div>
