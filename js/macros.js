@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $(".course-weekday").text("Monday")
-  $(".course-time").text("7-9pm")
+  $(".course-time").text("7:30-9pm")
   $(".quarter-year").text("Fall 2020")
   $(".academic-year").text("2020-2021")
   $(".course-location").html("this <a style='color:#0085a1' target='_blank' href='https://us02web.zoom.us/j/9598309206'>Zoom Link</a>")
