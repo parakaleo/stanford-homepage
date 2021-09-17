@@ -3,6 +3,9 @@
     "name": "startbootstrap-clean-blog",
     "version": "4.0.0-beta",
     "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "scripts": {
+      "dev": "node server.js"
+    },
     "keywords": [
         "css",
         "sass",
@@ -35,12 +38,15 @@
         "serve-static": "^1.12.2"
     },
     "devDependencies": {
+        "body-parser": "^1.19.0",
         "browser-sync": "2.18.13",
+        "glob": "^7.1.7",
         "gulp": "^3.9.1",
         "gulp-clean-css": "3.7.0",
         "gulp-header": "1.8.9",
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
-        "gulp-uglify": "3.0.0"
+        "gulp-uglify": "3.0.0",
+        "pretty": "^2.0.0"
     }
 }
