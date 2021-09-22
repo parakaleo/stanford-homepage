@@ -20,6 +20,9 @@ $(document).ready(function() {
       default: return "th";
     }
   }
+  var rounddown = function(x, k) {
+    return Math.floor(x/k)*k;
+  }
   var d = new Date()
   var t1 = new Date('1974-09-15')
   var ministry_years = d.getFullYear() - t1.getFullYear()
@@ -31,6 +34,7 @@ $(document).ready(function() {
   $(".academic-year").text(academic_year + '-' + (academic_year+1))
   $(".ministry-years").text(ministry_years)
   $(".ministry-years.ordinal").text(ministry_years + nth(ministry_years))
+  $(".ministry-years.fives").text(rounddown(ministry_years, 5))
 
   switch (location.pathname) {
       /*
