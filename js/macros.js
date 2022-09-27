@@ -26,6 +26,7 @@ $(document).ready(function() {
   // var autwin = new Date('1974-01-01')
   // var winspr = new Date('1974-03-15')
   var ministry_years = d.getFullYear() - t1.getFullYear()
+  var current_year = d.getFullYear()
   var academic_year = d.getFullYear()
   if(d.setFullYear(t1.getFullYear()) < t1) {
     ministry_years -= 1
@@ -39,7 +40,7 @@ $(document).ready(function() {
     'Winter' :
     ((month > 3 && month < 6) || (month === 3 && day > 15) || (month === 6 && day <= 15)) ?
     'Spring' : 'Summer'
-  $(".quarter-year").text(quarter + ' ' + d.getFullYear())
+  $(".quarter-year").text(quarter + ' ' + current_year)
   $(".academic-year").text(academic_year + '-' + (academic_year+1))
   $(".ministry-years").text(ministry_years)
   $(".ministry-years.ordinal").text(ministry_years + nth(ministry_years))
