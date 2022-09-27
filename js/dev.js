@@ -20,6 +20,9 @@ if (location.hostname === 'localhost' || location.hostname.indexOf('ngrok') >= 0
       return msg;
     };
   }
+  var presave_hooks = () => {
+    $('nav#mainNav').removeClass('is-visible')
+  }
 
   var cleanup = function() {
     $('#edit-mode-show-specials').remove()
@@ -45,6 +48,7 @@ if (location.hostname === 'localhost' || location.hostname.indexOf('ngrok') >= 0
     cleanup()
     window.onbeforeunload = null
     document.body.removeAttribute('contentEditable')
+    presave_hooks()
     var html = new XMLSerializer().serializeToString(document)
     var href = location.href
     var base = document.baseURI
