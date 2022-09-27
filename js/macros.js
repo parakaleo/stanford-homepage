@@ -1,14 +1,14 @@
 $(document).ready(function() {
   $(".course-weekday").text("Monday")
-  $(".course-time").text("7:30-9pm")
-  $(".quarter-year").text("Fall 2021")
+  $(".course-time").text("7-9pm")
+  $(".quarter-year").text("Fall 2022")
   // $(".academic-year").text("2021-2022")
-  $(".course-location").html("TBA during COVID restrictions")
+  $(".course-location").html("Old Union 3rd floor, room 301")
   $(".course-duration").text("1-year")
   $(".student-officers").html(`
-    <br>Jesse Doan (jdoan21 &lt;at&gt; stanford.edu)
     <br>Irena Gao (igao &lt;at&gt; stanford.edu)
-    <br>Allan Jiang (jiangts &lt;at&gt; stanford.edu)
+    <br>Fletcher Passow (passow &lt;at&gt; stanford.edu)
+    <br>Claire Muscat (cnmuscat &lt;at&gt; stanford.edu)
   `)
 
   var nth = function(d) {
