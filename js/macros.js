@@ -6,7 +6,7 @@ $(document).ready(function() {
   $(".student-officers").html(`
     <br>Irena Gao (igao &lt;at&gt; stanford.edu)
     <br>Fletcher Passow (passow &lt;at&gt; stanford.edu)
-    <br>Claire Muscat (cnmuscat &lt;at&gt; stanford.edu)
+    <br>Lucia Zheng (zlucia &lt;at&gt; stanford.edu)
   `)
 
   var nth = function(d) {
