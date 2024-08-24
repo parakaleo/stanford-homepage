@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".course-weekday").text("Monday")
+  $(".course-weekday").text("Tuesday")
   $(".course-time").text("7-9pm")
   $(".course-location").html("Old Union 3rd floor, room 301")
   $(".course-duration").text("1-year")
