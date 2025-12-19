@@ -1,0 +1,87 @@
+/* Banner CSS Variables */
+:root {
+  --banner-bg-start: #fff4e6;
+  --banner-bg-end: #ffe8cc;
+  --banner-border-color: #ff9500;
+  --banner-text-color: #8b4513;
+  --banner-shadow: rgba(255, 149, 0, 0.2);
+  --banner-close-opacity: 0.7;
+  --banner-close-opacity-hover: 1;
+  --banner-close-transition: opacity 0.2s;
+}
+
+/* Ensure body is positioning context for absolutely positioned banner */
+body {
+  position: relative;
+}
+
+/* Banner Container */
+#alert-banner {
+  background: linear-gradient(135deg, var(--banner-bg-start) 0%, var(--banner-bg-end) 100%);
+  border: 2px solid var(--banner-border-color);
+  color: var(--banner-text-color);
+  box-shadow: 0 2px 10px var(--banner-shadow);
+  z-index: 1029;
+  left: 0;
+  right: 0;
+  max-width: max-content;
+  margin: 0 auto;
+  opacity: 1 !important;
+  position: absolute;
+  top: 0;
+  overflow-x: hidden;
+}
+
+/* Banner Flex Container */
+#alert-banner .banner-flex-container {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Banner Text Container */
+#alert-banner .banner-text-container {
+  flex: 1;
+  min-width: 0;
+  padding-right: 0.5rem;
+}
+
+/* Banner Desktop Message */
+#alert-banner .banner-desktop-message {
+  font-size: 1rem;
+  word-wrap: break-word;
+  line-height: 1.25;
+  color: var(--banner-text-color);
+}
+
+/* Banner Mobile Message */
+#alert-banner .banner-mobile-message {
+  font-size: 0.9rem;
+  word-wrap: break-word;
+  line-height: 1.25;
+  color: var(--banner-text-color);
+}
+
+/* Banner Close Button Container */
+#alert-banner .banner-close-container {
+  flex-shrink: 0;
+}
+
+/* Banner Close Button */
+#alert-banner .close {
+  padding: 0.5rem;
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  min-width: 44px;
+  min-height: 44px;
+  border: none;
+  background: transparent;
+  color: var(--banner-text-color);
+  opacity: var(--banner-close-opacity);
+  transition: var(--banner-close-transition);
+}
+
+#alert-banner .close:hover {
+  opacity: var(--banner-close-opacity-hover);
+}
+
